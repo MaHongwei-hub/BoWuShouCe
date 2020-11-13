@@ -1,8 +1,7 @@
 # BoWuShouCe
 
 一、项目名称  
-博物手记--博物致知
-![RUNOOB 图标](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/T2.jpg "RUNOOB")  
+博物手记--博物致知  
 二、项目介绍  
 1.小程序定位  
 本软件适用于云南高校全体师生。  
@@ -154,7 +153,7 @@
 
 
 三、项目效果截图（4-6张）  
-
+![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/111.jpg )  
 四、项目体验小程序二维码或链接  
 
 五、部署教程  
