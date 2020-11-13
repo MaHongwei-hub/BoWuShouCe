@@ -1,4 +1,4 @@
-部署说明  
+部署说明：  
 （1）下载代码到桌面，解压到当前文件夹。  
 （2）打开微信小程序开发工具，导入项目，选择桌面刚解压的文件，填写自己的APPID，点击导入，则成功导入项目  
 （3）申请地图KEY: 腾讯位置服务的路线规划插件，详情见链接：https://lbs.qq.com/miniProgram/plugin/pluginGuide/routePlan  
