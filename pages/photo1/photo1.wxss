@@ -1,0 +1,68 @@
+/* pages/photo1/photo1.wxss */
+.title1 {
+  font-size: 30px;
+  font-family: KaiTi;
+  font-weight: bolder;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.firstimg {
+  width: 100%;
+  border-width: 5%;
+  border-radius: 5%;
+}
+
+.title2 {
+  font-size: 15px
+}
+
+.text1 {
+  padding-top: 10rpx;
+  font-weight: 800;
+  font-size: 20px;
+  padding-bottom: 20rpx;
+
+}
+
+.text2 {
+  font-weight: 800;
+  font-size: 12px;
+}
+
+.text2text {
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text3 {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.picture {
+  width: 350rpx;
+  height: 250rpx;
+  margin-right: 20rpx;
+}
+
+.contenttext {
+  font-size: 12px;
+}
+
+/* 横着的分割View样式 */
+/*分割线样式*/
+.div-line {
+  background: #E0E3DA;
+  width: 100%;
+  height: 3rpx;
+}
+
+.TV {
+  display: flex;
+}

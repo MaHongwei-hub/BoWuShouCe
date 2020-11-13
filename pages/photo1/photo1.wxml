@@ -1,0 +1,42 @@
+<!--pages/photo1/photo1.wxml-->
+<!--photo1页面-->
+<image class="firstimg" src="../../images/T1.jpg"></image>
+<text class='title1'>云南省博物馆\n</text>
+<text class="text2text">云南省昆明市广福路6393号\n</text>
+<text class="text2text">每周二至周日（16:30停止入场，逢周一闭馆）\n</text>
+<text class="text3">09:00 - 17:00\n</text>
+<text class='text1'>明星文物\n</text>
+<view class='TV'>
+  <view>
+    <image src="../../images/3.jpg" class='picture'></image>
+  </view>
+  <view>
+    <view class='text2'>牛虎铜案</view>
+    <text class="contenttext">于1972年在江川县李家山古墓群遗址第24号墓坑中发掘出来的战国时期青铜器。牛虎案...</text>
+  </view>
+</view>
+<view class="div-line"></view>
+
+<view class='TV'>
+  <view>
+    <image src="../../images/kqdmw.jpg" class='picture'></image>
+  </view>
+  <view>
+    <view class='text2'>孔雀大明王</view>
+    <text class="contenttext">汉译有摩诃摩瑜利罗阇、佛母大孔雀明王等。在密教修法中，以孔雀明王为本尊而...</text>
+  </view>
+</view>
+<view class="div-line"></view>
+
+<view class='TV'>
+  <view>
+    <image src="../../images/caitao.jpg" class='picture'></image>
+  </view>
+  <view>
+    <view class='text2'>彩陶几何纹双系壶</view>
+    <text class="contenttext">新石器晚期，仰韶文化半山型。泥质橙黄陶胎，造型饱满，图案风格淳朴...</text>
+  </view>
+</view>
+<view class="div-line"></view>
+<view class='text1'>园区简介</view>
+<text class='title2' decode="{{true}}">&nbsp;&nbsp;&nbsp;云南省博物馆是一座中国省级综合性博物馆，创建于1951年8月，陈列面积达2400平方米。作为民族文化大省，考古发掘已证明了云南历史文化呈现的多样性与多民族省份是相一致的。50余年来，云南省博物馆经过多年的考古发掘、调查征集、社会收购和接受捐赠的青铜器、古钱币、陶瓷器、古书画、碑贴、邮票及各类工艺品已逾19万件之多，是云南省收藏文物最多的博物馆。在数以千计的珍贵文物中，被认定为国家一级文物的约1千余件。该馆的历史文物藏品绝大多数来自考古发掘。</text>

@@ -1,0 +1,44 @@
+<!--pages/photo2/photo2.wxml-->
+<!--photo2页面-->
+<image class="firstimg" src="../../images/tielu.jpg"></image>
+<text class='title1'>云南铁路博物馆\n</text>
+<text class="text2text">昆明市盘龙区北京路913号火车北站\n</text>
+<text class="text2text">周三至周日（周一、周二闭馆）</text>
+<text class="text3">9:00-16:00\n</text>
+<text class='text1'>明星文物</text>
+<view class='TV'>
+  <view>
+    <image src="../../images/zhengqi.jpg" class='picture'></image>
+  </view>
+  <view>
+    <view class='text2'>"米其林”胶轮内燃动车</view>
+    <text class="contenttext">1914年在滇越铁路上投入使用。动车长16米、宽2.6米、高2.9米，车内设软席座位19个...</text>
+  </view>
+</view>
+<view class="div-line"></view>
+
+<view class='TV'>
+  <view>
+    <image src="../../images/dongche.jpg" class='picture'></image>
+  </view>
+  <view>
+    <view class='text2'>准轨春城号动车组</view>
+    <text class="contenttext">1999年举办中国昆明世界园艺博览会时，作为旅游列车开行于昆明-石林之间。动车长26.12...</text>
+  </view>
+</view>
+<view class="div-line"></view>
+
+<view class='TV'>
+  <view>
+    <image src="../../images/migui.jpg" class='picture'></image>
+  </view>
+  <view>
+    <view class='text2'>KD55型米轨蒸汽机车</view>
+    <text class="contenttext">日本川崎造船所1897年制造的KD55型蒸汽机车，车轴排列方式1-4-0，牵引力16370千克...</text>
+  </view>
+</view>
+<view class="div-line"></view>
+
+
+<view class='text1'>园区简介</view>
+<text class='title2' decode="{{true}}">&nbsp;&nbsp;&nbsp;云南铁路博物馆位于昆明市北京路913号，利用昆明火车北站的候车室建立而成，2004年开馆，主要展示昆明铁路发展历史，特别是米轨铁路文物。博物馆建筑面积7963平方米，布展面积5155平方米，收藏或展示文物、文献万余件，其中一级文物8件、二级文物10件、三级文物123件。浓缩了云南铁路百年风雨历程。因其独特的历史和文化价值，被命名为全国青少年教育基地、全国铁路和云南省爱国主义教育基地以及云南省科普教育基地。</text>

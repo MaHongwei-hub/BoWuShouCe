@@ -1,0 +1,120 @@
+/* pages/search/search.wxss */
+.search {
+  width: 80%;
+}
+
+.search_arr {
+  border: 1px solid #d0d0d0;
+  border-radius: 10rpx;
+  margin-left: 20rpx;
+}
+
+.search_arr input {
+  margin-left: 60rpx;
+  height: 60rpx;
+  border-radius: 5px;
+}
+
+.bc_text {
+  line-height: 68rpx;
+  height: 68rpx;
+  margin-top: 34rpx;
+}
+
+.sousuo {
+  margin-left: 15rpx;
+  width: 15%;
+  line-height: 150%;
+  text-align: center;
+  border: 1px solid #515151;
+  border-radius: 10rpx;
+
+}
+
+.page_row {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid #d0d0d0;
+}
+
+.item {
+  margin-top: 20rpx;
+  line-height: 40rpx;
+}
+
+.searchcion {
+  margin: 10rpx 10rpx 10rpx 10rpx;
+  position: absolute;
+  left: 25rpx;
+  z-index: 2;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+}
+
+.title {
+  margin-top: 100rpx;
+  margin-left: 30rpx;
+}
+
+.userinfo {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: rgb(12, 12, 12);
+}
+
+.usermotto {
+  margin-top: 10px;
+}
+
+.avatar-wrapper {
+  background: #7bdab2;
+  padding: 25px 0;
+}
+
+.listimg image {
+  margin-right: 5px;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+}
+
+.content {
+  display: flex;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+/*分割线样式*/
+.divLine {
+  background: #f2f2ee;
+  width: 100%;
+  height: 5rpx;
+}
+
+.arrows image {
+  vertical-align: middle;
+  width: 5rpx;
+  height: 15px;
+  margin-left: 500rpx;
+}
+
+.image-plus-style {
+  height: 150rpx;
+  width: 150rpx;
+  position: fixed;
+  bottom: 250rpx;
+  right: 100rpx;
+} 

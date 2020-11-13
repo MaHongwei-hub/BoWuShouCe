@@ -1,0 +1,53 @@
+/* pages/index/index.wxss */
+.userinfo {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: rgb(12, 12, 12);
+}
+
+.usermotto {
+  margin-top: 10px;
+}
+
+.avatar-wrapper {
+  padding: 25px 0;
+}
+
+.listimg image {
+  margin-right: 5px;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+}
+
+.content {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*分割线样式*/
+.divLine {
+  background: #cce9e0;
+  width: 100%;
+  height: 10rpx;
+}
+
+.arrows image {
+  vertical-align: middle;
+  width: 15px;
+  height: 15px;
+  margin-left: 500rpx;
+}

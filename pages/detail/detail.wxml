@@ -1,0 +1,5 @@
+<!--pages/details/details.wxml-->
+<!--记事详细界面-->
+<image mode='widthFix' bindtap="previewImage" src="{{fileID}}"></image>
+<textarea placeholder="我的小记" bindinput="getcomments" value="{{comments}}"></textarea>
+<button type='primary' bindtap="saveComment" style="background:#c9e9ef;">评论</button>
