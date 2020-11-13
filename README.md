@@ -153,7 +153,9 @@
 
 
 三、项目效果截图（4-6张）  
-![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/111.jpg )  
+![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/444.jpg )![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/222.jpg )  
+![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/333.jpg )![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/111.jpg )  
+![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/555.jpg )![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/666.jpg )  
 四、项目体验小程序二维码或链接  
 
 五、部署教程  
