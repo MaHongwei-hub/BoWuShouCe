@@ -1,0 +1,59 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+}
+
+.addbutton {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  width: 138rpx;
+  height: 138rpx;
+  z-index: 100;
+}
+
+.addbutton .add-icon {
+  display: block;
+  margin: 0 auto;
+  width: 127rpx;
+  height: 127rpx;
+}
+
+page,
+.page {
+  width: 100%;
+  height: 100%;
+}
+
+.bg_box {
+  width: 100%;
+  height: 0;
+  z-index: 100;
+}
+
+.bg_box image {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+.bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  z-index: -1;
+}
+
+.bg-image {
+  width: 100%;
+  height: 100%;
+}

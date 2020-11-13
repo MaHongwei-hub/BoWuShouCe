@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/first/first",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/introduce/introduce",
+    "pages/photos/photos",
+    "pages/detail/detail",
+    "pages/note/note",
+    "pages/addNote/addNote",
+    "pages/search/search",
+    "pages/map/map",
+    "pages/school/school",
+    "pages/photo1/photo1",
+    "pages/photo2/photo2",
+    "pages/photo3/photo3",
+    "pages/photo4/photo4"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f2f2ee",
+    "navigationBarTitleText": "博物致知",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#985",
+    "selectedColor": "#211",
+    "borderStyle": "black",
+    "backgroundColor": "#f2f2ee",
+    "list": [{
+        "selectedIconPath": "images/主页面.png",
+        "iconPath": "images/主页.png",
+        "pagePath": "pages/first/first",
+        "text": "主页"
+      },
+      {
+        "selectedIconPath": "images/搜索面.png",
+        "iconPath": "images/搜索.png",
+        "pagePath": "pages/search/search",
+        "text": "搜索"
+      },
+      {
+        "selectedIconPath": "images/个人面.png",
+        "iconPath": "images/个人.png",
+        "pagePath": "pages/index/index",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "plugins": {
+    "routePlan": {
+      "version": "1.0.10",
+      "provider": "wx50b5593e81dd937a"
+    }
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序定位"
+    }
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
