@@ -156,7 +156,8 @@
 ![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/444.jpg )![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/222.jpg )  
 ![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/333.jpg )![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/111.jpg )  
 ![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/555.jpg )![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/666.jpg )  
-四、项目体验小程序二维码或链接  
+四、项目体验小程序二维码  
+![首页](https://www.et.ynu.edu.cn/appdd/uploads/20181060025/4/1.0.6.jpg)
 
 五、部署教程  
 （1）下载代码到桌面，解压到当前文件夹。  
